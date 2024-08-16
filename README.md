@@ -1,1 +1,0 @@
-# Soroush-Telegram-Bot
